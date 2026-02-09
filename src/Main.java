@@ -32,5 +32,15 @@ public class Main
         System.out.println("The Difference of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleDifference);
         System.out.println("The Quotient of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleQuotient);
         System.out.println("The Modulo of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleModulo + "\n");
+
+
+        double myLunchCost = 12.50;
+        int kidsInFamily = 2;
+        boolean isRaining = false;
+        double gasPricePerGallon = 2.78;
+        int favoriteNumber = 13;
+        double shoeSize = 11.5;
+        int birthMonth = 12;
+        String fullName = "Charlie Crocker";
     }
 }
